@@ -1,0 +1,163 @@
+body {
+    background-color:#8098ff ;
+    item-align: center;
+    margin-top: 300px;
+    margin-bottom: 100px;
+}
+
+.form {
+    background-color: #131315;
+    border: 2px;
+    border-radius: 12px;
+    height:850px;
+    width:450px;
+    padding-top: 10px;
+    padding-left: 15px;
+    margin-left: 200px;
+    margin-right: 200px;
+}
+
+.h2 {
+    font-family:Arial;
+    font-weight:700;
+    color: #ffffff;
+    item-align: centre;;
+    padding-left:150px;
+    margin-top: 50px;
+}
+
+.bio {
+    font-family:Arial;
+    font-weight:500;
+    font-size:12px;
+    color: #ffffff;
+    item-align: centre;;
+    padding-left:80px;
+    margin-top: 50px;
+    display:flex;
+    margin-bottom: 50px;
+}
+
+.email {
+    font-family:Arial;
+    font-weight:500;
+    color: #ffffff;
+}
+
+.num-1 {
+    font-family:Arial;
+    font-weight:500;
+    color: #ffffff;
+}
+
+.user {
+    font-family:Arial;
+    font-weight:500;
+    color: #ffffff;
+}
+
+.dob {
+    font-family:Arial;
+    font-weight:500;
+    color: #ffffff;
+}
+
+.password {
+    font-family:Arial;
+    font-weight:500;
+    color: #ffffff;
+}
+
+.pass {
+    font-family:Arial;
+    font-weight:500;
+    color: #ffffff;
+}
+.terms {
+    font-family:Arial;
+    font-weight:500;
+    color: #ffffff;
+}
+
+.ttr {
+    text-decoration:none;
+    color:#8098ff;
+}
+
+.form-1 {
+    border-radius: 5px;
+   margin-bottom: 10px;
+   background-color:#595959;
+   width:400px;
+   height:40px;
+}
+
+.num {
+    border-radius: 5px;
+   margin-bottom: 10px;
+   background-color:#595959;
+   width:400px;
+   height:40px;
+}
+
+.user-1 {
+    border-radius: 5px;
+   margin-bottom: 10px;
+   background-color:#595959;
+   width:400px;
+   height:40px;
+}
+
+.date {
+    border-radius: 5px;
+   margin-bottom: 10px;
+   background-color:#595959;
+   width:400px;
+   height:40px;
+}
+
+.input-2 {
+    border-radius: 5px;
+   margin-bottom: 10px;
+   background-color:#595959;
+   width:400px;
+   height:40px;
+}
+
+.re-pass {
+    border-radius: 5px;
+   margin-bottom: 10px;
+   background-color:#595959;
+   width:400px;
+   height:40px;
+}
+
+.btn {
+    background-color:#8098ff ;
+    color:#ffffff;
+    border: none;
+    border-radius: 8px;
+    width:410px;
+    height:40px;
+    cursor:pointer;
+    font-weight:500;
+    font-size:15px;
+    margin-bottom: 20px;
+}
+
+.btn-2 {
+    background-color:#8098ff ;
+    color:#ffffff;
+    border: none;
+    border-radius: 8px;
+    width:410px;
+    height:40px;
+    cursor:pointer;
+    font-weight:500;
+}
+
+.a-1 {
+    text-decoration:none;
+    color: #ffffff;
+    font-size:15px;
+}
